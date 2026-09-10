@@ -1,0 +1,40 @@
+<svg width="420" height="200" viewBox="0 0 420 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="200" rx="12" fill="#1a1b26" stroke="#24283b" stroke-width="2"/>
+  
+  <!-- Header -->
+  <text x="25" y="38" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="700" fill="#7aa2f7">
+    ⚡ GitHub Activity &amp; Overview
+  </text>
+  
+  <!-- Row 1: Repos -->
+  <g transform="translate(25, 60)">
+    <circle cx="10" cy="10" r="10" fill="#24283b"/>
+    <text x="7" y="14" font-size="11">📦</text>
+    <text x="30" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#a9b1d6">Public Repositories:</text>
+    <text x="355" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700" fill="#7dcfff" text-anchor="end">6</text>
+  </g>
+
+  <!-- Row 2: Focus Domains -->
+  <g transform="translate(25, 95)">
+    <circle cx="10" cy="10" r="10" fill="#24283b"/>
+    <text x="7" y="14" font-size="11">🧠</text>
+    <text x="30" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#a9b1d6">Core Focus:</text>
+    <text x="355" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#bb9af7" text-anchor="end">AI &amp; Computer Vision</text>
+  </g>
+
+  <!-- Row 3: Web Apps -->
+  <g transform="translate(25, 130)">
+    <circle cx="10" cy="10" r="10" fill="#24283b"/>
+    <text x="7" y="14" font-size="11">🌐</text>
+    <text x="30" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#a9b1d6">Web Architecture:</text>
+    <text x="355" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#73daca" text-anchor="end">Next.js 14 / TypeScript</text>
+  </g>
+
+  <!-- Row 4: Status -->
+  <g transform="translate(25, 165)">
+    <circle cx="10" cy="10" r="10" fill="#24283b"/>
+    <text x="7" y="14" font-size="11">🚀</text>
+    <text x="30" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" fill="#a9b1d6">Current Status:</text>
+    <text x="355" y="14" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700" fill="#9ece6a" text-anchor="end">Building in Public</text>
+  </g>
+</svg>
