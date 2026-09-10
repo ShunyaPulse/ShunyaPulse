@@ -30,8 +30,8 @@ Passionate developer building AI-powered tools, computer vision workflows, and i
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShunyaPulse&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vansh's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShunyaPulse&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://raw.githubusercontent.com/ShunyaPulse/ShunyaPulse/main/assets/stats.svg" alt="Vansh's GitHub Stats" width="48%" />
+  <img src="https://raw.githubusercontent.com/ShunyaPulse/ShunyaPulse/main/assets/languages.svg" alt="Top Technologies" width="48%" />
 </div>
 
 ---
