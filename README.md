@@ -3,7 +3,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/ShunyaPulse?label=Followers&style=social)](https://github.com/ShunyaPulse)
 [![Contact Email](https://img.shields.io/badge/Contact-Email-blue?logo=gmail&logoColor=white)](mailto:techanics6174@gmail.com)
 
-Passionate developer building AI-powered tools, computer vision workflows, and interactive modern web applications. Focused on engineering high-impact, performant systems combining machine intelligence with seamless user experiences.
+Passionate Full-Stack & Systems Developer building cloud-native architectures, AI/Computer Vision workflows, and resilient web applications. Focused on engineering high-throughput, containerized systems with enterprise-grade security and intuitive user experiences.
 
 ---
 
@@ -11,19 +11,19 @@ Passionate developer building AI-powered tools, computer vision workflows, and i
 
 | Project | Stack | Highlights & Links |
 | :--- | :--- | :--- |
-| [**Flow-State**](https://github.com/ShunyaPulse/Flow-State) | `Python` `OpenCV` `MediaPipe` | AI focus assistant with real-time face landmark tracking for posture/sleepiness alerts, audio brainwaves, and a bulletproof host-level website blocker. |
-| [**Collaborative Kanban Board**](https://github.com/ShunyaPulse/kanban-board) | `Next.js 14` `TypeScript` `Tailwind` `Zustand` | Production-ready board featuring custom WIP limits, real-time analytics (lead time/throughput), state-machine Undo/Redo, and Zod-validated JSON export. <br>👉 [Live Demo](https://kanban-board-sigma-ochre.vercel.app) |
+| [**Kanban Cloud**](https://github.com/ShunyaPulse/kanban-cloud) | `Next.js 14` `TypeScript` `NextAuth` `PostgreSQL` `Redis` `Docker` `Cloud Run` | Modern cloud-native task management platform featuring multi-tenant private workspaces, Google & Credentials OAuth, distributed Neon Postgres + Redis caching, WIP limits, real-time analytics, and automated GitOps CI/CD pipelines. <br>👉 [Live Demo](https://kanban-cloud-685823552970.asia-south1.run.app) |
+| [**Flow-State**](https://github.com/ShunyaPulse/Flow-State) | `Python` `OpenCV` `MediaPipe` | AI focus assistant with real-time facial landmark tracking for posture and fatigue detection, binaural audio beats, and a bulletproof system-level distraction blocker. |
 | [**Ultimate AI Predictor**](https://github.com/ShunyaPulse/ai-predictor) | `HTML5 Canvas` `JavaScript` `Bayesian Math` | Interactive Bayesian probability forecasting engine that computes logarithmic odds and visualizes belief states on dynamic S-curves. <br>👉 [Live Demo](https://ai-predictor-six.vercel.app) |
-| [**AI Damage Inspector Pro**](https://github.com/ShunyaPulse/ai_damage_inspector_pro) | `Next.js` `React` `TypeScript` `jsPDF` | Visual damage inspection and repair cost estimation platform with multi-angle photo analysis and downloadable PDF reports. <br>👉 [Live Demo](https://ai-damage-inspector-pro.vercel.app) |
+| [**AI Damage Inspector Pro**](https://github.com/ShunyaPulse/ai_damage_inspector_pro) | `Next.js` `React` `TypeScript` `jsPDF` | Visual damage inspection and repair cost estimation platform with multi-angle photo analysis and automated PDF report generation. <br>👉 [Live Demo](https://ai-damage-inspector-pro.vercel.app) |
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages**: Python, TypeScript, JavaScript, HTML5, CSS3, SQL
-- **Frameworks & UI**: Next.js, React, Tailwind CSS, Zustand, Vite
-- **AI & Computer Vision**: OpenCV, MediaPipe, NumPy, Bayesian Modeling
-- **Tools & Deployment**: Git, GitHub, Vercel, Node.js, Linux / Windows
+- **Cloud & DevOps**: Docker, Google Cloud Run, GitHub Actions (CI/CD), Linux, GitOps
+- **Databases & Cache**: PostgreSQL (Neon Serverless), Redis, SQL
+- **Full-Stack & UI**: Next.js 14, React, TypeScript, NextAuth.js, Tailwind CSS, Zustand, Node.js
+- **AI & Computer Vision**: OpenCV, MediaPipe, Python, NumPy, Bayesian Modeling
 
 ---
 
@@ -37,5 +37,5 @@ Passionate developer building AI-powered tools, computer vision workflows, and i
 ---
 
 <p align="center">
-  <i>"Building systems that bridge mathematical rigor and intuitive user experiences."</i>
+  <i>"Building systems that bridge mathematical rigor, distributed cloud architecture, and intuitive design."</i>
 </p>
