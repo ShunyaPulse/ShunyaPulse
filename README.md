@@ -29,15 +29,6 @@ Passionate Full-Stack & Systems Developer building cloud-native architectures, o
 
 ---
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ShunyaPulse/ShunyaPulse/main/assets/stats.svg" alt="Vansh's GitHub Stats" width="48%" />
-  <img src="https://raw.githubusercontent.com/ShunyaPulse/ShunyaPulse/main/assets/languages.svg" alt="Top Technologies" width="48%" />
-</div>
-
----
-
 <p align="center">
   <i>"Building systems that bridge mathematical rigor, distributed cloud architecture, and intuitive design."</i>
 </p>
