@@ -11,6 +11,7 @@ Passionate Full-Stack & Systems Developer building cloud-native architectures, o
 
 | Project | Stack | Highlights & Links |
 | :--- | :--- | :--- |
+| [**ShunopsAI**](https://github.com/ShunyaPulse/ShunopsAI) | `TypeScript` `Node.js` `OpenRouter` `Groq LPUs` `Gemini Flash 34-Key Pool` `Docker` `GitHub Actions` `Kaggle GPU` `CodeQL` | Autonomous Multi-Cloud DevOps Sentinel & Proactive Code-Healing Agent. Orchestrates continuous infrastructure health audits across Google Cloud Run, Oracle Cloud Redis, and Neon Postgres; auto-remediates security alerts (CodeQL, Semgrep) and Dependabot PRs via dual-model AST consensus; drives automated GPU video rendering pipelines on Kaggle; and embeds an interactive ReAct edge AI command widget with zero-latency key anti-contention. <br>👉 [Repository](https://github.com/ShunyaPulse/ShunopsAI) |
 | [**SaralGati (सरल गति)**](https://github.com/ShunyaPulse/SaralGati) | `Kotlin` `Jetpack Compose` `Next.js 16` `Cloudflare Workers AI` `Llama 3.1 LoRA` `Google Cloud Run` `Neon Postgres` `Redis` | Autonomous AI digital companion and caregiver ecosystem giving Indian senior citizens complete digital independence. Features real-time spoken Hindi voice guidance, visual spotlight UI grounding via Android Accessibility Services, 1-tap phone glitch healing (*"Sab Theek Karo"*), and an autonomous self-learning DPO flywheel fine-tuning custom LoRA adapters on Cloudflare Workers AI. <br>👉 [Live Platform](https://saralgati-685823552970.asia-south1.run.app) \| [Download APK](https://github.com/ShunyaPulse/SaralGati/releases) |
 | [**Kanban Cloud**](https://github.com/ShunyaPulse/kanban-cloud) | `Next.js 14` `TypeScript` `NextAuth` `PostgreSQL` `Redis` `Docker` `Cloud Run` | Modern cloud-native task management platform featuring multi-tenant private workspaces, Google & Credentials OAuth, distributed Neon Postgres + Redis caching, WIP limits, real-time analytics, and automated GitOps CI/CD pipelines. <br>👉 [Live Demo](https://kanban-cloud-685823552970.asia-south1.run.app) |
 | [**Flow-State**](https://github.com/ShunyaPulse/Flow-State) | `Python` `OpenCV` `MediaPipe` | AI focus assistant with real-time facial landmark tracking for posture and fatigue detection, binaural audio beats, and a bulletproof system-level distraction blocker. |
@@ -21,6 +22,7 @@ Passionate Full-Stack & Systems Developer building cloud-native architectures, o
 
 ### 🛠️ Tech Stack & Skills
 
+- **Autonomous AI Agents & DevOps**: Multi-Agent Orchestration, Dual-Model Consensus (Gemini Flash + Groq 120B), Self-Healing Infrastructure, CodeQL AST Remediation, ReAct Tool Loops, Kaggle GPU Scripting, GitOps CI/CD
 - **Mobile & Android**: Kotlin, Jetpack Compose, Material 3, Android Accessibility Services, WorkManager, R8/ProGuard
 - **Edge AI & Machine Learning**: Llama 3.1 8B, Unsloth, LoRA / PEFT Fine-Tuning, Cloudflare Workers AI, DPO Flywheels, OpenCV, MediaPipe, Python
 - **Cloud & DevOps**: Docker, Google Cloud Run, GitHub Actions (CI/CD), Linux, GitOps, Cloudflare Turnstile
