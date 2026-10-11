@@ -1,7 +1,7 @@
 # Hi there, I'm Vansh Gupta 👋
 
 [![GitHub Followers](https://img.shields.io/github/followers/ShunyaPulse?label=Followers&style=social)](https://github.com/ShunyaPulse)
-[![Contact Email](https://img.shields.io/badge/Contact-Email-blue?logo=gmail&logoColor=white)](mailto:techanics6174@gmail.com)
+[![Contact Email](https://img.shields.io/badge/Contact-Email-blue?logo=gmail&logoColor=white)](mailto:shunyapulse42@gmail.com)
 
 Passionate Full-Stack & Systems Developer building cloud-native architectures, on-device mobile AI, and resilient web applications. Focused on engineering high-throughput, containerized distributed systems with enterprise-grade security and intuitive user experiences.
 
